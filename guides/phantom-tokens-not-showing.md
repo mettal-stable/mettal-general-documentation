@@ -1,6 +1,6 @@
-# My tokens don't show up in Phantom Wallet
-
 🇪🇸 [Leer en español](phantom-tokens-no-aparecen.md)
+
+# My tokens don't show up in Phantom Wallet
 
 If you hold **PENMT** (Mettal) in Phantom but it doesn't appear in your token list, it's usually hidden. Phantom can hide tokens it doesn't recognize, so you just need to turn PENMT back on.
 
