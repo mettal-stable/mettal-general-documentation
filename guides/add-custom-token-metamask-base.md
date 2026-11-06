@@ -1,3 +1,5 @@
+🇪🇸 [Leer en español](agregar-token-personalizado-metamask-base.md)
+
 # Add a custom token to MetaMask on Base
 
 This guide shows how to add a Mettal token (example: **PENMT**) to MetaMask on the **Base** network, so it shows up in your token list. It assumes you already have MetaMask installed and set up.
