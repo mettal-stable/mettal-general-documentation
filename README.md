@@ -8,7 +8,7 @@ This repository collects end-user and integrator documentation that is not tied 
 
 | Guide | Description |
 | --- | --- |
-| [Add a custom token to MetaMask on Base](guides/add-custom-token-metamask-base.md) | Step-by-step: enable Base, import an ERC-20 (example: **PENMT**), verify on BaseScan, troubleshoot |
+| [Add a custom token to MetaMask on Base](guides/add-custom-token-metamask-base.md) | Step-by-step: import a Mettal token (example: **PENMT**) into an existing MetaMask wallet on Base |
 
 ## Network quick reference (Base Mainnet)
 
