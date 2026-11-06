@@ -9,6 +9,7 @@ This repository collects end-user and integrator documentation that is not tied 
 | Guide | Description |
 | --- | --- |
 | [Add a custom token to MetaMask on Base](guides/add-custom-token-metamask-base.md) | Step-by-step: import a Mettal token (example: **PENMT**) into an existing MetaMask wallet on Base |
+| [My tokens don't show up in Phantom Wallet](guides/phantom-tokens-not-showing.md) · [Español](guides/phantom-tokens-no-aparecen.md) | Turn PENMT back on in Phantom mobile and the desktop extension |
 
 ## Network quick reference (Base Mainnet)
 
